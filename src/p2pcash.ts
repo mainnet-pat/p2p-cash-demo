@@ -5,7 +5,7 @@ const peer1: PeerOptions = {
   ticker: "BCH",
   node: `35.209.186.110`, // 26.0 protocol 70016
   port: 8333,
-  wsProxyNode: `wsproxy.mainnet-pat.me`,
+  wsProxyNode: `wsproxy.pat.mn`,
   useSSL: true,
   wsProxyPort: 443,
   DEBUG_LOG: true,
